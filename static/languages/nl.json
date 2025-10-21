@@ -1,13 +1,11 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Hoeveel groeide de economie van de EU?",
+  "subtitle": "In 2024 steeg het bbp van de EU met 1% ten opzichte van 2023. Dit komt neer op € 17,98 biljoen.",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
+  "textNote": "In 2024 werden stijgingen geregistreerd voor de meeste uitgavencomponenten van het bbp, maar was er een daling in de bruto kapitaalvorming. De vier uitgavencomponenten van het bbp zijn consumptie, investeringen, overheidsuitgaven en netto-export.",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2024)",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
   "legend1": "Geen gegevens beschikbaar",
   "tooltipExtraInfoLabel": "Klik hier"
 }
