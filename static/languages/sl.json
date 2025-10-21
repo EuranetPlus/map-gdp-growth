@@ -1,13 +1,11 @@
 {
-  "title": "Katere države EU ponujajo najboljše zaposlitvene možnosti?",
-  "subtitle": "Prihodnja rast zaposlenosti v teh državah v letih 2022–2035 je ocenjena na 5,6 %.",
+  "title": "Koliko je zraslo gospodarstvo EU?",
+  "subtitle": "Leta 2024 se je BDP EU v primerjavi z letom 2023 povečal za 1 %. To znaša 17,98 bilijona evrov.",
   "textNoteDescription": "Opomba",
-  "textNote": "sdchdc",
+  "textNote": "V letu 2024 je bilo zabeleženo povečanje večine izdatkovnih komponent BDP, vendar je prišlo do zmanjšanja bruto investicij. Štiri izdatke BDP so potrošnja, naložbe, državna poraba in neto izvoz.",
   "textSourceDescription": "Vir",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2024)",
   "linkDataAccessDescription": "Dostop do podatkov",
-  "extraInfo_DE": "Nemčija pospešuje uvedbo obnovljive energije, cilj je 80 % čiste energije do leta 2030",
-  "extraInfo_FR": "Francoski parlament je med protesti po vsej državi potrdil predlog zakona o veliki reformi priseljevanja",
-  "legend1": "Ni podatkov",
+  "legend1": "Ni na voljo podatkov",
   "tooltipExtraInfoLabel": "Kliknite tukaj"
 }
