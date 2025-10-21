@@ -1,13 +1,11 @@
 {
-  "title": "Quali paesi dell'UE offrono le migliori prospettive di occupazione?",
-  "subtitle": "Si stima che la crescita futura dell'occupazione in questi paesi nel periodo 2022-2035 sarà del 5,6%.",
+  "title": "Quanto è cresciuta l'economia dell'UE?",
+  "subtitle": "Nel 2024, il PIL dell'UE è aumentato dell'1% rispetto al 2023. Ciò equivale a 17,98 trilioni di euro.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Nel 2024, si sono registrati aumenti per la maggior parte delle componenti di spesa del PIL, ma si è registrato un calo degli investimenti lordi. Le quattro componenti di spesa del PIL sono consumi, investimenti, spesa pubblica ed esportazioni nette.",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2024)",
   "linkDataAccessDescription": "Accedi ai dati",
-  "extraInfo_DE": "La Germania accelera il lancio delle energie rinnovabili, puntando all'80% di energia pulita entro il 2030",
-  "extraInfo_FR": "Il Parlamento francese approva un importante disegno di legge sulla riforma dell'immigrazione tra le proteste nazionali",
   "legend1": "Nessun dato disponibile",
   "tooltipExtraInfoLabel": "clicca qui"
 }
